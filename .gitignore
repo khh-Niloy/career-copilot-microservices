@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+.env.* 
+.venv/
+
+# IDE and editor folders
+.vscode/
+.idea/
+*.swp
+
+# macOS & system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Uvicorn reload artifacts
+*.pid
