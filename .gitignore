@@ -25,3 +25,4 @@ Thumbs.db
 
 # Uvicorn reload artifacts
 *.pid
+.vercel
